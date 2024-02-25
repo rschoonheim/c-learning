@@ -1,0 +1,7 @@
+# Cmake -
+#
+cmake-build-debug/
+
+# Intellij IDE
+#
+.idea/
